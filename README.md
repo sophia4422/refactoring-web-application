@@ -12,8 +12,11 @@ Refactoring is not only useful for yourself but also for others who may use the 
 
 After reading the client's brief and looking through the provided code, I outlined a list of things to refactor.
 
-- **Make the webpage accessible.**
-- **Ensure all images have alt text captions.**
+- **Make the webpage accessible.** - by adding alt text to images.
+- **Ensure all images have alt text captions.** - alt text is essential to make the webpage accessible for visually impaired users. Alt text will only appear if an image fails to load on a users screen. It is also helpful for improving SEO.
+
+Good alt text should be descriptive and specific. Describe the image with clear, useful keywords - but not too many keywords as to incur a penalty from Google. The captions should be less than 125 characters, straight to the point and lack spelling errors.
+
 - **Use semantic elements.**
 - **Include comments.**
 - **Title, header, body and footer.**
