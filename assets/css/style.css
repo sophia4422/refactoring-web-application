@@ -4,6 +4,10 @@
   margin: 0;
 }
 
+.container {
+  width: 1300px;
+}
+
 body {
   background-color: #d9dcd6;
 }
