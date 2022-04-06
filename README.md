@@ -27,6 +27,7 @@ Good alt text should be descriptive and specific. Describe the image with clear,
 - **Title, header, body and footer.**
 - **Logical order to headings (h1 to h6).**
 - **Document title (head element) is descriptive.**
+  Writing a compelling title and description is an excellent way to improve SEO.
 
 - **The 'search engine optimization' navigation link is broken.**
   This was missing a simple id tag (id = search-engine-optimization)
