@@ -10,25 +10,27 @@ Refactoring is not only useful for yourself but also for others who may use the 
 
 # My refactoring 'To do List'
 
-After reading the client's brief and looking through the provided code, I outlined a list of things to refactor.
-
-- **Make the webpage accessible.**
-  By adding alt text to images.
+After reading the client's brief and looking through the provided code, I outlined a list of things to refactor with the main aim of making the webpage more accessible. Below is my 'To do List' and an explanation of what I did to achieve these tasks.
 
 - **Ensure all images have alt text captions.**
-  Alt text is essential to make the webpage accessible for visually impaired users. Alt text will only appear if an image fails to load on a users screen. It is also helpful for improving SEO.
+  Alt text is essential to make the webpage accessible for visually impaired users, as this means images can be read by screen-readers. Alt text is hidden and the only time it will be visible is if an image fails to load on a users screen. Alt text is useful in improving a web page's SEO.
 
-Good alt text should be descriptive and specific. Describe the image with clear, useful keywords - but not too many keywords as to incur a penalty from Google. The captions should be less than 125 characters, straight to the point and lack spelling errors.
+  Good alt text should be descriptive and specific. Describe the image with clear, useful keywords - but not too many keywords as to incur a penalty from Google. The captions should be less than 125 characters, straight to the point and lack spelling errors.
 
 - **Use semantic elements.**
-  Semantic elements help improve accessibility of a webpage. Replacing a lot of code wrapped up in < divs > and replacing them with semantic elements not only makes the code more readable to a developer but also better for those using screen-readers.
+  Semantic elements help improve accessibility of a webpage. Replacing a lot of code wrapped up in < divs > and replacing them with semantic elements not only makes the code more readable to a developer but also makes the webpage more accessible for those using screen-readers.
 
 - **Include comments.**
-- **Title, header, body and footer.**
+  Including comments in the html helps to identify what areas of the webpage the html refers to. Comments in the css makes it clear which parts of the website are being manipulated by the css.
+
 - **Logical order to headings (h1 to h6).**
+  Previously, the webpage had a h1 header and the remaining headers were set to h3. Changing the h3 headers to h2 helps the webpage to load more logically and boosts SEO.
+
 - **Document title (head element) is descriptive.**
-  Writing a compelling title and description is an excellent way to improve SEO.
+  Writing a compelling title and description is an excellent way to improve SEO. The title is what shows at the top of the webpage and the description is shown in internet search results. I have tried to keep the description concise and containing the main keywords that describe Horiseons.
 
 - **The 'search engine optimization' navigation link is broken.**
-  This was missing a simple id tag (id = search-engine-optimization)
+  This was missing a simple id tag (id = search-engine-optimization). When 'Search Engine Optimization' is clicked in the navigation bar, the user is automatically taken to its corresponding section on the webpage.
+
 - **There are lots of duplicate class names in css. Replace this in the html with generic names.**
+  I have replaced duplicate classes with one concise class. This makes things more simple in the html and css by preventing errors and making future changes easier, as you will only need to change one class rather than multiple ones.
