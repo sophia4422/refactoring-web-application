@@ -3,7 +3,7 @@
   padding: 0;
   margin: 0;
 }
-
+/* container keeps everything in position */
 .container {
   width: 1300px;
 }
@@ -80,6 +80,8 @@ p {
   margin-left: 20px;
 }
 
+/* .main-squares refers to the 3 main boxes: SEO, Online Rep management and social media marketing.
+All three boxes have the same css properties, so I have condensed the 3 separate classes into one. */
 .main-squares {
   margin-bottom: 20px;
   padding: 50px;
@@ -88,11 +90,11 @@ p {
   background-color: #0072bb;
   color: #ffffff;
 }
-
+/* This is affecting the images of the three main boxes on the website. */
 .main-squares img {
   max-height: 200px;
 }
-
+/* This is affecting the headers of the three main boxes on the website. */
 .main-squares h2 {
   margin-bottom: 20px;
   font-size: 36px;
@@ -108,17 +110,17 @@ p {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   background-color: #2589bd;
 }
-
+/* This is affecting the side bar on the right hand side. */
 .benefits-generic {
   margin-bottom: 32px;
   color: #ffffff;
 }
-
+/* This is affecting the three headers on the right side bar */
 .benefits-generic h2 {
   margin-bottom: 10px;
   text-align: center;
 }
-
+/* This is affecting the images of the right side bar */
 .benefits-generic img {
   display: block;
   margin: 10px auto;
