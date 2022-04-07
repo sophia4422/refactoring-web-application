@@ -51,3 +51,7 @@ After reading the client's brief and looking through the provided code, I outlin
  
  This screenshot shows the multiple class selectors in the html. A lot of these classes had the same styling and formatting elements. 
  ![multipleclasses](https://user-images.githubusercontent.com/101473841/162234507-5bbcc92d-145b-4b48-9546-5d1082293b75.png)
+ 
+ Here is a snippet of just some of these classes in the css. As you can see from the screenshot, the multiple classes contained the same elements.
+ 
+ ![multipleclassescss](https://user-images.githubusercontent.com/101473841/162235357-b35011fa-03ee-4a69-bab3-bdb8d573ba97.png)
