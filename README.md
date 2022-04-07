@@ -19,6 +19,9 @@ After reading the client's brief and looking through the provided code, I outlin
 
 - **Use semantic elements.**
   Semantic elements help improve accessibility of a webpage. Replacing a lot of code wrapped up in < divs > and replacing them with semantic elements not only makes the code more readable to a developer but also makes the webpage more accessible for those using screen-readers.
+  
+  This screenshot shows just how many < div > classes were in the code before any edits. This can be called a 'div soup'. 
+  ![divsoup](https://user-images.githubusercontent.com/101473841/162231706-49f28be7-cd5e-41c5-ba22-6d08985b9693.png)
 
 - **Include comments.**
   Including comments in the html helps to identify what areas of the webpage the html refers to. Comments in the css makes it clear which parts of the website are being manipulated by the css.
