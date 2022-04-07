@@ -46,3 +46,8 @@ After reading the client's brief and looking through the provided code, I outlin
   This screenshot shows the html after I have removed the multiple < div > classes and replaced with semantic elements, such as < article > and < aside >.
   
   ![divsoupafter](https://user-images.githubusercontent.com/101473841/162232972-b0ba4721-ea74-4f4a-9d88-b51810293980.png)
+  
+ **Combining multiple css classes into one with a generic name**
+ 
+ This screenshot shows the multiple class selectors in the html. A lot of these classes had the same styling and formatting elements. 
+ ![multipleclasses](https://user-images.githubusercontent.com/101473841/162234507-5bbcc92d-145b-4b48-9546-5d1082293b75.png)
