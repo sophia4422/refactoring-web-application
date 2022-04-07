@@ -55,3 +55,8 @@ After reading the client's brief and looking through the provided code, I outlin
  Here is a snippet of just some of these classes in the css. As you can see from the screenshot, the multiple classes contained the same elements.
  
  ![multipleclassescss](https://user-images.githubusercontent.com/101473841/162235357-b35011fa-03ee-4a69-bab3-bdb8d573ba97.png)
+ 
+ The screenshot below shows that I have condensed the multiple css classes into just a few generic ones. The comments show which areas of the webpage that the code affects. Now it will be easier to make future changes to the code.
+ 
+ ![refactoredcss](https://user-images.githubusercontent.com/101473841/162236223-923473cc-27b2-40fe-8ea6-b16d8c548eb6.png)
+
