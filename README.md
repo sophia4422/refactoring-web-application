@@ -22,6 +22,10 @@ After reading the client's brief and looking through the provided code, I outlin
   
   This screenshot shows just how many < div > classes were in the code before any edits. This can be called a 'div soup'. 
   ![divsoup](https://user-images.githubusercontent.com/101473841/162231706-49f28be7-cd5e-41c5-ba22-6d08985b9693.png)
+  
+  This screenshot shows the html after I have removed the < div > classes and replaced with semantic elements, such as < article > and < aside >.
+  
+  ![divsoupafter](https://user-images.githubusercontent.com/101473841/162232972-b0ba4721-ea74-4f4a-9d88-b51810293980.png)
 
 - **Include comments.**
   Including comments in the html helps to identify what areas of the webpage the html refers to. Comments in the css makes it clear which parts of the website are being manipulated by the css.
