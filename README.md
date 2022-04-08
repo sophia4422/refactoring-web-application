@@ -4,6 +4,8 @@
 
 For this client, I was asked to refactor the html and css for clients 'Horiseons' web application.
 
+My deployed Page: https://sophia4422.github.io/refactoring-web-application/
+
 ## What is refactoring?
 
 Software can fail when the code becomes too complex and cluttered. Refactoring can improve the code design, this makes it easier to understand, easier to modify and easier to spot bugs.
