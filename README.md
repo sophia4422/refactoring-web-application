@@ -1,4 +1,6 @@
-## refactoring-web-application
+## Refactoring a Web Application
+
+![screenshotofcompletedwork](https://user-images.githubusercontent.com/101473841/162484502-6fe4d13f-67ab-45cb-b103-b2da4b37a994.png)
 
 For this client, I was asked to refactor the html and css for clients 'Horiseons' web application.
 
